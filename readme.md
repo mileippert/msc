@@ -1,6 +1,6 @@
 ## NB
 
-Needs some more refactoring and love.
+Needs some more refactoring and love. :wink:
 
 ## Requirements / Used Libraries:
 
