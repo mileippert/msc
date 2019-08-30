@@ -1,5 +1,7 @@
 ## NB
 
+Clone repository, let it download zipped training data and run input/unzip.sh.
+
 Needs some more refactoring and love. :wink:
 
 ## Requirements / Used Libraries:
