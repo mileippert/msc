@@ -1,6 +1,6 @@
 ## NB
 
-Clone repository, let it download zipped training data and run input/unzip.sh.
+Clone repository, let it download zipped training data [(requires git-lfs)](https://help.github.com/en/articles/installing-git-large-file-storage) and run input/unzip.sh.
 
 Needs some more refactoring and love. :wink:
 
